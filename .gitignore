@@ -72,3 +72,20 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+# Unreal Engine
+Saved/
+Intermediate/
+DerivedDataCache/
+.vscode/
+*.VC.db
+*.sdf
+*.opensdf
+*.log
+*.tlog
+*.tmp
+*.pdb
+
+# OS + Editor Trash
+.DS_Store
+Thumbs.db
+
